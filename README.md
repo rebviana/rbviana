@@ -1,16 +1,15 @@
-### Hi there 👋
+[![author](https://img.shields.io/badge/author-rbviana-red.svg)](https://www.linkedin.com/in/renataborgesviana) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-<!--
-**rbviana/rbviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Renata Viana
+<sub>*Analista de Sistemas* at CARL ZEISS VISION BRASIL</sub> 👓
 
-Here are some ideas to get you started:
+Eu sou apaixonada pela área T.I e curto assuntos relacionados a inovação, automação, IA e Machine Learning. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+:scroll:**Background in:** <br/>
+Python, Progress 4Gl, Power Automate e Metodologias Ágeis.
+
+:mailbox_with_no_mail:**Como chegar até mim:** <br/>
+[LinkedIn](https://www.linkedin.com/in/renataborgesviana)
+
+
