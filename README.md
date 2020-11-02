@@ -3,11 +3,11 @@
 # Renata Viana
 <sub>*Analista de Sistemas* at CARL ZEISS VISION BRASIL</sub> 👓
 
-Eu sou apaixonada pela área T.I e curto assuntos relacionados a inovação, automação, IA e Machine Learning. 
+Eu sou apaixonada pela área T.I e curto assuntos relacionados a inovação, , IA e Machine Learning. 
 
 
 :scroll:**Background in:** <br/>
-Python, Progress 4Gl, Power Automate e Metodologias Ágeis.
+Python (Iniciante), Progress 4Gl e Metodologias Ágeis.
 
 :mailbox_with_no_mail:**Como chegar até mim:** <br/>
 [LinkedIn](https://www.linkedin.com/in/renataborgesviana)
