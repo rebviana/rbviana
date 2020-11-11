@@ -1,5 +1,9 @@
 [![author](https://img.shields.io/badge/author-rbviana-red.svg)](https://www.linkedin.com/in/renataborgesviana) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
+<p align="center">
+  <img src="banner.png" >
+</p>
+
 # Renata Viana
 <sub>*Analista de Sistemas* at CARL ZEISS VISION BRASIL</sub> 👓
 
