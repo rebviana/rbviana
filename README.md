@@ -14,4 +14,4 @@ Eu sou apaixonada pela área T.I e curto assuntos relacionados a inovação, , I
 Python (Iniciante), Progress 4Gl e Metodologias Ágeis.
 
 :mailbox_with_no_mail:**Como chegar até mim:** <br/>
-[LinkedIn](https://www.linkedin.com/in/renataborgesviana)
+[LinkedIn](https://www.linkedin.com/in/rebviana)
